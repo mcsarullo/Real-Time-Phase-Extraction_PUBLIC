@@ -4,3 +4,5 @@ Public repository of my real-time phase extraction program created for use at Ma
 Specific Implementation and unique variables are not disclosed as such values are considered secure. Pending publishing.
 
 Source code may be available upon further request.
+
+Technical Writeup included in 'Limited Source Code' folder
